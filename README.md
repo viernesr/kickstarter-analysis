@@ -24,13 +24,13 @@ The data used was taken from Kickstarter, having projects launched as early as 2
 
 #### Outcomes Based on Launch Date
 
-A PivotTable was created to get the relevant information based on launch date. In **Kickstarter_Challenge.xlsx**, the first column contains all the months of the year, while the next columns are counts of "successful", "failed", and "canceled", within the *Kickstarter* sheet, with the final column being a total count of all projects within the month. The table has been filtered to theaters as the parent category, with an optional filter to compare the years. A line graph was used to visualize the given table, given [here](./resources/Theater_Outcomes_vs_Launch.png).
+A PivotTable was created to get the relevant information based on launch date. In **Kickstarter_Challenge.xlsx**, the first column contains all the months of the year, while the next columns are counts of "successful", "failed", and "canceled", within the *Kickstarter* sheet, with the final column being a total count of all projects within the month. The table has been filtered to theaters as the parent category, with an optional filter to compare the years. A line graph was used to visualize the given table, shown [here](./resources/Theater_Outcomes_vs_Launch.png).
 
 In the image, the line graph shows that more projects are launched during May and June, and it also shows that the success rate is higher during those months, in terms of quantity and in percentage. On the other hand, the projects launched in December have similar success and failure rates.
 
 #### Outcomes Based on Pledge Goals
 
-A count was done based on conditions (outcomes, filtered to plays, and pledge goals), resulting in the sheet named _Outcomes Based on Goals_. Percentages were taken, based on success, failure, and cancellations, for each goal pledge range. A visual representation of the sheet is shown on a line graph, in the image file **Outcomes_vs_Goals.png**.
+A count was done based on conditions (outcomes, filtered to plays, and pledge goals), resulting in the sheet named _Outcomes Based on Goals_. Percentages were taken, based on success, failure, and cancellations, for each goal pledge range. A visual representation of the sheet is shown on a line graph, available [here](./resources/Outcomes_vs_Goals.png).
 
 In **Outcomes_vs_Goals.png**, the success rate is more than the failure rate when the pledge goal is at most $15,000.00, with both rates being equal at the $15,000.00-$19,999.99 range. The success rate is also more than the failure rate when the pledge goal is within $35,000.00-$44999.99, but otherwise the failure rate is at a higher percentage when the pledge goal is at least $20,000.00.
 
