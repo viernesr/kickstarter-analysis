@@ -32,7 +32,7 @@ In the image, the line graph shows that more projects are launched during May an
 
 A count was done based on conditions (outcomes, filtered to plays, and pledge goals), resulting in the sheet named _Outcomes Based on Goals_. Percentages were taken, based on success, failure, and cancellations, for each goal pledge range. A visual representation of the sheet is shown on a line graph, available [here](./resources/Outcomes_vs_Goals.png).
 
-In **Outcomes_vs_Goals.png**, the success rate is more than the failure rate when the pledge goal is at most $15,000.00, with both rates being equal at the $15,000.00-$19,999.99 range. The success rate is also more than the failure rate when the pledge goal is within $35,000.00-$44999.99, but otherwise the failure rate is at a higher percentage when the pledge goal is at least $20,000.00.
+In this image, the success rate is more than the failure rate when the pledge goal is at most $15,000.00, with both rates being equal at the $15,000.00-$19,999.99 range. The success rate is also more than the failure rate when the pledge goal is within $35,000.00-$44999.99, but otherwise the failure rate is at a higher percentage when the pledge goal is at least $20,000.00.
 
 ## Conclusion
 
